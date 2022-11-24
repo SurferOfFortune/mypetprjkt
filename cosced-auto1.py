@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import random
 
-#проверка поиска числами.Вставляет случайное число от 1 до 20 и тыкает кнопку "Поиск"
+#проверка функции поиска числами.Вставляет случайное число от 1 до 20 и тыкает кнопку "Поиск"
 link = "https://cosced.ru/"
 
 try:
